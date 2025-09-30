@@ -1,0 +1,8 @@
+#This file lists key manufacturing partners. The location_tags are crucial, as they are what our AI will use to connect events to suppliers.
+
+supplier_id,supplier_name,country,city,products,location_tags
+101,Apex Garments Ltd.,Bangladesh,Dhaka,"T-Shirts, Polo Shirts",Dhaka Bangladesh textile industry labor port of Chittagong logistics
+102,Saigon Textiles,Vietnam,Ho Chi Minh City,"Denim Jeans, Jackets",Ho Chi Minh City Vietnam shipping port logistics Mekong River
+103,Guangzhou Premier Fashion,China,Guangzhou,"Dresses, Blouses",Guangzhou China Pearl River Delta manufacturing port of Guangzhou
+104,Surat Weavers Co.,India,Surat,"Sarees, Ethnic Wear",Surat Gujarat India textile mills local transport Tapi River
+105,Istanbul Fine Leathers,Turkey,Istanbul,"Leather Bags, Jackets",Istanbul Turkey Bosphorus strait customs Europe Asia shipping

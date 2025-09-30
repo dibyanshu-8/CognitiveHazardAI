@@ -1,0 +1,13 @@
+#This is our simulated stream of global intelligence;there's weather, politics, logistics, and labor news from around the world.
+
+event_id,event_type,location,severity,headline
+1,Weather,Bangladesh,High,"Cyclone alert issued for the Bay of Bengal, heavy rains expected to hit Chittagong coast."
+2,Labor,Vietnam,Medium,"Textile workers union in Ho Chi Minh City announces potential for a two-day labor strike next week over wage disputes."
+3,Logistics,China,Medium,"New customs inspection protocols at the Port of Guangzhou are causing an average of 48-hour delays for container processing."
+4,Politics,Turkey,Low,"Turkey announces minor changes to import tariffs on raw cotton, effective next quarter."
+5,Infrastructure,India,Positive,"The new highway connecting Surat's industrial parks to the main national transport grid is now fully operational."
+6,Logistics,Global,High,"Global shipping container shortage worsens, prices for freight have increased by 20% this month."
+7,Politics,Vietnam,Low,"Vietnam signs a new trade agreement with the European Union, potentially easing export processes."
+8,Weather,China,High,"Typhoon 'Sea Dragon' is forecast to make landfall near the Pearl River Delta within 72 hours."
+9,Labor,Bangladesh,High,"Widespread protests erupt in Dhaka following factory safety concerns, disrupting traffic and industrial operations."
+10,Infrastructure,Vietnam,Medium,"Scheduled maintenance on the primary crane system at the Ho Chi Minh City port will reduce capacity by 30% for the next five days."
