@@ -1,10 +1,5 @@
 streamlit
 pandas
-google-generativeai
+llama-cpp-python
+sentence-transformers
 faiss-cpu
-torch
-torchvision
-torchaudio
-sentence-transformers==2.2.2
-transformers==4.36.2
-huggingface-hub==0.19.4
