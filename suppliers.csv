@@ -1,4 +1,3 @@
-#This file lists key manufacturing partners. The location_tags are crucial, as they are what our AI will use to connect events to suppliers.
 
 supplier_id,supplier_name,country,city,products,location_tags
 101,Apex Garments Ltd.,Bangladesh,Dhaka,"T-Shirts, Polo Shirts",Dhaka Bangladesh textile industry labor port of Chittagong logistics

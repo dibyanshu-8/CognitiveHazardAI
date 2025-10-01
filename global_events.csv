@@ -1,4 +1,3 @@
-#This is our simulated stream of global intelligence;there's weather, politics, logistics, and labor news from around the world.
 
 event_id,event_type,location,severity,headline
 1,Weather,Bangladesh,High,"Cyclone alert issued for the Bay of Bengal, heavy rains expected to hit Chittagong coast."
