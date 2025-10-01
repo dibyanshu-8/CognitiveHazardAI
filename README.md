@@ -78,6 +78,11 @@ This project is built as a proof-of-concept using a **Retrieval-Augmented Genera
     -   Add your Google Gemini API key to the file:
         ```toml
         GOOGLE_API_KEY = "YOUR_API_KEY_HERE"
+
+<img width="1915" height="989" alt="image" src="https://github.com/user-attachments/assets/9bb7fdc2-590b-4fb7-b821-2c84ccba084f" />
+<img width="1917" height="991" alt="image" src="https://github.com/user-attachments/assets/85e49fe9-3ae9-42f4-9014-129af4d3373c" />
+
+
         ```
 
 5.  **Run the Application:**
