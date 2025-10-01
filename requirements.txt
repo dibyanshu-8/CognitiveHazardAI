@@ -1,5 +1,5 @@
 streamlit
 pandas
-llama-cpp-python
+https://github.com/abetlen/llama-cpp-python/releases/download/v0.3.16-cu123/llama_cpp_python-0.3.16-cp310-cp310-linux_x86_64.whl
 sentence-transformers
 faiss-cpu
