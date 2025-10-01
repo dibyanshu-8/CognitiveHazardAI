@@ -1,1 +1,2 @@
 *.gguf filter=lfs diff=lfs merge=lfs -text
+tinyllama-1.1b-chat-v1.0.Q5_K_M.gguf filter=lfs diff=lfs merge=lfs -text
